@@ -20,3 +20,4 @@ window.onload = () => {
         else result.innerHTML =
             `Over Weight : ${bmi}`;
   }
+  
